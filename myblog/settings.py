@@ -79,10 +79,10 @@ DATABASES = {
         'NAME': 'myblog',  # Replace with your database name
         'ENFORCE_SCHEMA': True,
         'CLIENT': {
-            'host': 'mongodb+srv://shahidulru05:Shahidulru05@cluster0.wu7rt4g.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp',
+            'host': 'mongodb+srv://eusufabdullah:<eu1998>@cluster0.3jfufws.mongodb.net/?retryWrites=true&w=majority',
             #'port': 27017,
-            'username': 'shahidulru05',
-            'password': 'Shahidulru05',
+            'username': 'eusufabdullah',
+            'password': 'eu1998',
             'authSource': 'admin',
         }
     }
